@@ -1,5 +1,8 @@
 body {
-	font-family: Lato, 'Helvetica Neue';
+	font-family: Helvetica, sans-serif;
 	font-size: 18px;
 	font-weight: 300;
+}
+img {
+	max-width: 600px;
 }
