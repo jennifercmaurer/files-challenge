@@ -6,3 +6,8 @@ body {
 img {
 	max-width: 600px;
 }
+
+header {
+	font-size: 30px;
+	font-weight: 400;
+}
